@@ -1,0 +1,17 @@
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\bin\Debug\Ia3DSimples.deps.json
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\bin\Debug\Ia3DSimples.runtimeconfig.json
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\bin\Debug\Ia3DSimples.dll
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\bin\Debug\Ia3DSimples.pdb
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.csproj.AssemblyReference.cache
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.AssemblyInfoInputs.cache
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.AssemblyInfo.cs
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.csproj.CopyComplete
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.dll
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\refint\Ia3DSimples.dll
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.pdb
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\Ia3DSimples.genruntimeconfig.cache
+C:\Users\samuel\Documents\ARENA 8\Ia3DSimples\.godot\mono\temp\obj\Debug\ref\Ia3DSimples.dll

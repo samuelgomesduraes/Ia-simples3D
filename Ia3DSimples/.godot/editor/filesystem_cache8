@@ -1,0 +1,11 @@
+2a60927148abd1d33b818b535e306557
+::res://::1680976122
+icon.svg::CompressedTexture2D::3823131816087879714::1680301660::1680309794::1::::<><>::
+::res://scenes/::1680709761
+chao.tscn::PackedScene::6940087820963991181::1680296861::0::1::::<><>::
+enemy.tscn::PackedScene::4077938688076374958::1680709761::0::1::::<><>::res://scripts/enemy.cs
+jogador.tscn::PackedScene::9158487661842370446::1680709760::0::1::::<><>::res://scripts/jogador.cs
+mapa_3d.tscn::PackedScene::1229190602310785702::1680709760::0::1::::<><>::uid://c543h5yjwecv2<>uid://d3qo7oq7x2l55<>uid://bydnb35coxyss
+::res://scripts/::1680312101
+enemy.cs::CSharpScript::-1::1680709757::0::1::::<><>::
+jogador.cs::CSharpScript::-1::1680708195::0::1::::<><>::

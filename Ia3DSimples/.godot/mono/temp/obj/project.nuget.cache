@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MT4rh0dxDARxAtIe7waMwIkZSd6Wp3yU0EmixrNyvfWiY5WVDu1IXH7u4gpEFbKfOyq1qFiv/QpyG7zDKNOjiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuel\\Documents\\ARENA 8\\Ia3DSimples\\Ia3DSimples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godot.sourcegenerators\\4.0.2\\godot.sourcegenerators.4.0.2.nupkg.sha512",
+    "C:\\Users\\samuel\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharp\\4.0.2\\godotsharp.4.0.2.nupkg.sha512",
+    "C:\\Users\\samuel\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder\\godotsharpeditor\\4.0.2\\godotsharpeditor.4.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
